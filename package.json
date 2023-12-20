@@ -9,6 +9,10 @@
     "start": "npm run dev"
   },
   "dependencies": {
+    "@umijs/max": "^4.0.81",
+    "bpmn-js": "^16.1.0",
+    "bpmn-js-properties-panel": "^5.6.1",
+    "camunda-bpmn-moddle": "^7.0.1",
     "umi": "^4.0.89"
   },
   "devDependencies": {
